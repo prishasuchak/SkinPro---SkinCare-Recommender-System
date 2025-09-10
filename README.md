@@ -33,10 +33,7 @@ The system uses a dataset (`skinpro.csv`) with the following columns:
 
 ---
 
-## ⚡ How It Works
-1. **Product Preprocessing** – Extracts product type (serum, moisturizer, mask, etc.) from product names.  
-2. **Embedding Generation** – Uses SBERT to create embeddings for each product.  
-3. **User Query Matching** – Takes a user query
+
 
 
    
